@@ -3,7 +3,7 @@ A Task Manager application created in React as the  client-side and Django Rest 
 
 React in a nutshell, is a JavaScript library that is great for developing single page applications (SPA) and it has solid documentation if you're interested tor read about React.
 
-And I have a react tutorial video where I explained how React works and how we can connect it to Django in order to send requests from the client to the server and return responses to the client. 
+
 
 So React serves as the front-end , handling UI through the requests to Django's backend.
 
